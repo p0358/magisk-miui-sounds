@@ -1,0 +1,7 @@
+id=miui-sounds
+name=MIUI Sound Pack
+version=v1
+versionCode=1
+author=p0358
+description=This module adds MIUI 9 sounds to your system
+minMagisk=1500
